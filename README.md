@@ -1,0 +1,68 @@
+
+
+# Nettverk for åpne økologiske data
+
+> **Prosjektstatus: Under utvikling**
+>
+> Dette prosjektet er under aktiv utvikling. Innholdet er foreløpig, og
+> både struktur, tekst og funksjonalitet kan bli endret. Materialet bør
+> derfor ikke betraktes som en ferdig eller autoritativ ressurs på
+> nåværende tidspunkt.
+
+Dette repositoriet inneholder nettsiden og dokumentasjonen for
+**Nettverk for åpne økologiske data**. Ressursen utvikles som en
+[Quarto-bok](https://quarto.org/docs/books/) og publiseres gjennom
+GitHub Pages.
+
+## Formål
+
+Prosjektet skal bidra til å samle og utvikle informasjon, ressurser og
+arbeidsmåter knyttet til åpne økologiske data. Mer informasjon om
+nettverket, målgrupper og planlagte aktiviteter vil bli lagt til etter
+hvert som prosjektet utvikles.
+
+## Nettside
+
+Den nyeste publiserte versjonen av Quarto-boken finnes her:
+
+https://ninanor.github.io/Nettverk_for_apne_okologiske_data/
+
+## Lokal forhåndsvisning
+
+For å forhåndsvise boken lokalt må
+[Quarto](https://quarto.org/docs/get-started/) være installert. Åpne
+prosjektet i RStudio og bruk **Render Book**, eller kjør følgende i
+terminalen:
+
+``` bash
+quarto preview
+```
+
+For å bygge hele boken:
+
+``` bash
+quarto render
+```
+
+Den ferdige HTML-versjonen opprettes som standard i mappen `_book/`.
+
+## Bidrag
+
+Prosjektet er foreløpig i en tidlig utviklingsfase. Forslag, rettelser
+og bidrag kan registreres som en [GitHub
+issue](https://github.com/NINAnor/Nettverk_for_apne_okologiske_data/issues)
+eller sendes inn som en pull request.
+
+Før større endringer eller nye bidrag påbegynnes, anbefaler vi å
+opprette en issue slik at forslaget kan diskuteres og koordineres.
+
+## Ansvar
+
+Prosjektet utvikles av [Norsk institutt for naturforskning
+(NINA)](https://www.nina.no/) og samarbeidspartnere.
+
+## Lisens
+
+Lisensiering av innhold og kode er ennå ikke endelig avklart. Inntil en
+lisens er lagt til i repositoriet, gjelder ordinær opphavsrett, og
+materialet kan ikke uten videre gjenbrukes eller distribueres.
