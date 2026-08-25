@@ -14,8 +14,7 @@ editor: visual
 
 #### Scope, limitations, and intended audiences
 
-
-## 1 Why Open Ecological Data Matters
+## Why Open Ecological Data Matters
 
 ### The biodiversity and nature crisis: why data reuse matters
 
@@ -25,7 +24,7 @@ editor: visual
 
 ### How this guide relates to EVALBIOVIT and national strategies
 
-##  2 The Norwegian Ecological Data Landscape
+## The Norwegian Ecological Data Landscape
 
 ### Key data infrastructures (national and international)
 
@@ -49,22 +48,20 @@ editor: visual
 - eDNA and molecular data
 - Remote sensing–linked datasets
 
-
-## 3 Finding and Evaluating Open Ecological Data
+## Finding and Evaluating Open Ecological Data
 
 ### Discovering data (GBIF, Living Norway, portals)
 
-###  Assessing fitness for use
+### Assessing fitness for use
 
 - Spatial, temporal, taxonomic biases
 - Provenance and metadata quality
 
-###  Ethical and legal considerations in reuse
+### Ethical and legal considerations in reuse
 
-###  Citing data correctly
+### Citing data correctly
 
-
-## 4 From Data Collection to FAIR Data
+## From Data Collection to FAIR Data
 
 ### Planning for data sharing before data collection
 
@@ -74,63 +71,63 @@ editor: visual
 
 ### Versioning and data updates
 
-## 5 Publishing Ecological Data
+## Publishing Ecological Data
 
-###  When and where to publish data
+### When and where to publish data
 
-###  Publishing through GBIF
+### Publishing through GBIF
 
-###  Choosing licenses (CC‑BY, CC0, restrictions)
+### Choosing licenses (CC‑BY, CC0, restrictions)
 
-###  Handling sensitive data (species, locations, ethics)
+### Handling sensitive data (species, locations, ethics)
 
-###  Common pitfalls and how to avoid them
+### Common pitfalls and how to avoid them
 
-## 6 Reproducible and Transparent Workflows
+## Reproducible and Transparent Workflows
 
-###  Reproducibility in ecological analysis
+### Reproducibility in ecological analysis
 
-###  Linking data, code, and outputs
+### Linking data, code, and outputs
 
-###  Documentation and workflow transparency
+### Documentation and workflow transparency
 
-###  Version control and collaborative workflows
+### Version control and collaborative workflows
 
-###  Reproducibility in long‑term and monitoring studies
+### Reproducibility in long‑term and monitoring studies
 
-## 7 Using Open Data for Synthesis and “Big Ecology”
+## Using Open Data for Synthesis and “Big Ecology”
 
 ### Scaling from local data to national and global analyses
 
-###  Combining datasets across taxa and regions
+### Combining datasets across taxa and regions
 
-###  Dealing with heterogeneity and bias
+### Dealing with heterogeneity and bias
 
-###  Evidence synthesis and meta‑analysis
+### Evidence synthesis and meta‑analysis
 
-###  Limits of open data—and responsible interpretation
+### Limits of open data—and responsible interpretation
 
-## 8 Bridging Research, Management, and Policy
+## Bridging Research, Management, and Policy
 
-###  Data needs in nature management and policy
+### Data needs in nature management and policy
 
-###  Making research outputs usable for management
+### Making research outputs usable for management
 
-###  Co‑production with rights holders and authorities
+### Co‑production with rights holders and authorities
 
-###  Feedback loops: improving data through use
+### Feedback loops: improving data through use
 
-## 9 International Collaboration and Alignment
+## International Collaboration and Alignment
 
 ### Norway in international infrastructures
+
 - GBIF, eLTER, Biodiversa+, others
 
 ### Harmonisation of standards and practices
 
-###  Opportunities for coordinated Norwegian participation
+### Opportunities for coordinated Norwegian participation
 
-
-## 10 Practical Checklists and Templates
+## Practical Checklists and Templates
 
 - Data management planning checklist
 - Metadata checklist
@@ -138,9 +135,7 @@ editor: visual
 - Reuse and citation checklist
 - Workshop and training resources
 
-
 ### Case Studies from the Network
-
 
 - Successful data publication workflows
 - Data reuse enabling new insights
@@ -148,17 +143,16 @@ editor: visual
 
 ### Looking Ahead
 
-###  Future needs in ecological data infrastructure
+### Future needs in ecological data infrastructure
 
-###  Skills and capacity building
+### Skills and capacity building
 
-###  Recommendations for institutions and funders
+### Recommendations for institutions and funders
 
-## 11 Appendices
+## Appendices
 
 ### Glossary (Open Science, FAIR, GBIF terminology)
 
 ### Relevant policies and standards
 
 ### Contributor list and acknowledgements
-
