@@ -7,7 +7,7 @@ book:
   author: "Matt Grainger"
   chapters:
     - index.qmd
-    - Why_open_data.qmd
+    - why_open_data.qmd
     - The_Norwegian_Ecological_Data_Landscape.qmd
     - Finding_and_Evaluating_Open_Ecological_Data.qmd
     - FromData_Collection_to_FAIR_Data.qmd
