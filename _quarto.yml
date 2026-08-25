@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Open ecological data"
+  author: "Matt Grainger"
+  chapters:
+    - index.qmd
+    - Why_open_data.qmd
+    - The_Norwegian_Ecological_Data_Landscape.qmd
+    - Finding_and_Evaluating_Open_Ecological_Data.qmd
+    - FromData_Collection_to_FAIR_Data.qmd
+    - Publishing_Ecological_Data.qmd
+    - Reproducible_and_Transparent_Workflows.qmd
+    - Using_Open_Data_for_Synthesis_and_Big_Ecology.qmd
+    - Bridging_Research_Management_and_Policy.qmd
+    - International_Collaboration_and_Alignment.qmd
+    - Practical_Checklists_and_Templates.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true

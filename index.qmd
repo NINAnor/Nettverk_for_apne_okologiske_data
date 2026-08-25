@@ -1,0 +1,164 @@
+---
+title: "Guide for Improved Use and Sharing of Open Ecological Data in Norway"
+format: html
+editor: visual
+---
+
+<!-- Translate to Norsk -->
+
+## Front Matter
+
+### Executive summary
+
+#### How to use this guide
+
+#### Scope, limitations, and intended audiences
+
+
+## 1 Why Open Ecological Data Matters
+
+### The biodiversity and nature crisis: why data reuse matters
+
+### Open Science, FAIR data, and trust in ecological research
+
+### Benefits for research, management, and policy
+
+### How this guide relates to EVALBIOVIT and national strategies
+
+##  2 The Norwegian Ecological Data Landscape
+
+### Key data infrastructures (national and international)
+
+- GBIF (Norway and international)
+- Living Norway Ecological Data Network
+- Other relevant Nordic and European infrastructures
+- SORTEE
+
+### Roles and responsibilities
+
+- Data producers
+- Data publishers
+- Infrastructure providers
+- Data users
+
+### Typical data types in Norwegian ecology
+
+- Occurrence data
+- Time series and monitoring data (event)
+- Trait and functional data
+- eDNA and molecular data
+- Remote sensing–linked datasets
+
+
+## 3 Finding and Evaluating Open Ecological Data
+
+### Discovering data (GBIF, Living Norway, portals)
+
+###  Assessing fitness for use
+
+- Spatial, temporal, taxonomic biases
+- Provenance and metadata quality
+
+###  Ethical and legal considerations in reuse
+
+###  Citing data correctly
+
+
+## 4 From Data Collection to FAIR Data
+
+### Planning for data sharing before data collection
+
+### Minimum metadata standards in ecology
+
+### Persistent identifiers (DOIs, ORCID, etc.)
+
+### Versioning and data updates
+
+## 5 Publishing Ecological Data
+
+###  When and where to publish data
+
+###  Publishing through GBIF
+
+###  Choosing licenses (CC‑BY, CC0, restrictions)
+
+###  Handling sensitive data (species, locations, ethics)
+
+###  Common pitfalls and how to avoid them
+
+## 6 Reproducible and Transparent Workflows
+
+###  Reproducibility in ecological analysis
+
+###  Linking data, code, and outputs
+
+###  Documentation and workflow transparency
+
+###  Version control and collaborative workflows
+
+###  Reproducibility in long‑term and monitoring studies
+
+## 7 Using Open Data for Synthesis and “Big Ecology”
+
+### Scaling from local data to national and global analyses
+
+###  Combining datasets across taxa and regions
+
+###  Dealing with heterogeneity and bias
+
+###  Evidence synthesis and meta‑analysis
+
+###  Limits of open data—and responsible interpretation
+
+## 8 Bridging Research, Management, and Policy
+
+###  Data needs in nature management and policy
+
+###  Making research outputs usable for management
+
+###  Co‑production with rights holders and authorities
+
+###  Feedback loops: improving data through use
+
+## 9 International Collaboration and Alignment
+
+### Norway in international infrastructures
+- GBIF, eLTER, Biodiversa+, others
+
+### Harmonisation of standards and practices
+
+###  Opportunities for coordinated Norwegian participation
+
+
+## 10 Practical Checklists and Templates
+
+- Data management planning checklist
+- Metadata checklist
+- Data publication checklist
+- Reuse and citation checklist
+- Workshop and training resources
+
+
+### Case Studies from the Network
+
+
+- Successful data publication workflows
+- Data reuse enabling new insights
+- Lessons learned from mistakes
+
+### Looking Ahead
+
+###  Future needs in ecological data infrastructure
+
+###  Skills and capacity building
+
+###  Recommendations for institutions and funders
+
+## 11 Appendices
+
+### Glossary (Open Science, FAIR, GBIF terminology)
+
+### Relevant policies and standards
+
+### Contributor list and acknowledgements
+
